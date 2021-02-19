@@ -1,0 +1,23 @@
+body {
+    font-size: x-large;
+    background-color: aqua;
+}
+
+.quiz, .scoreContainer, .highScorePage {
+    display: none;
+}
+
+.card {
+    margin-top: 7% !important;
+    background-color: aqua;
+}
+
+li:hover {
+    background-color: bisque;
+    max-width: fit-content;
+    cursor: pointer;
+}
+
+.highScorePage {
+    margin-top: 0%;
+}
